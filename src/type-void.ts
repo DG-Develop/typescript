@@ -1,3 +1,4 @@
+export { }
 // * Void
 
 // Tipo explicito
